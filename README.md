@@ -1,77 +1,69 @@
-<h1 align="center">Hi, I'm Mohamed Saleh  👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+Hi, I'm Mohamed Saleh Mohamed 👋
+
+Flutter Developer 📱 | Dart Developer 💻 | Science Graduate 🎓
 
 <p align="center">
-  <a href="https://www.instagram.com/mo.saleh54?igsh=MXM4b2UyczcwNHQ2Yw=="><img src="https://img.shields.io/badge/Mohamed%20Saleh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-saleh-20a4ab3a2/"><img src=https://img.shields.io/badge/Mohamed%20Saleh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/17J67Fzk7Y/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mo.saleh54">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-saleh-20a4ab3a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@mo.saleh54">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/17J67Fzk7Y/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://learrnsimply.com">
+    <img src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
----
+🚀 About Me
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+class MohamedSaleh {
+  String name = "Mohamed Saleh Mohamed";
+  String role = "Flutter Developer";
+  String education = "Bachelor of Science";
 
-## 🚀 About Me
-
-```dart
-class AhmedAdel {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
   List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
+    "Flutter",
+    "Dart",
+    "Object-Oriented Programming",
+    "Git & GitHub",
+    "VS Code"
   ];
+
+  String currentFocus = "Mobile App Development";
+  String goal = "Building useful real-world applications";
 }
-```
-## 🔥 Highlights
 
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
+🎓 Science Graduate.
 
----
+📱 Passionate about Flutter & Mobile App Development.
 
-## 🧰 Tech Toolbox
+💻 Learning Dart and building practical applications.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
-</p>
+🌱 Constantly improving my programming skills.
 
----
+🚀 Turning ideas into real applications through code.
 
-# 📊 GitHub Stats
+🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,git,github" />
 </p>
 
----
+🚀 My Projects
 
-## 🎬 My YouTube Focus
+I'm currently building Flutter projects to improve my skills and gain practical experience.
 
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
+Feel free to explore my repositories and follow my development journey!
 
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+⚡ My Motto
 
----
-
-
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
+"Great things are built one step at a time. Keep learning, keep building, and never give up."
