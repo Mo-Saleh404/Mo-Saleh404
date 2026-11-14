@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Saleh Mohamed 👋</h1>
 
-Flutter Developer 📱 | Dart Developer 💻 | Science Graduate 🎓
+<h1 align="center">Flutter Developer 📱 | Dart Developer 💻 | Science Graduate 🎓</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/mo.saleh54">
