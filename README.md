@@ -23,7 +23,9 @@
 
 class Mo {
   String name = "Mohamed Saleh Mohamed";
+  
   String role = "Flutter Developer";
+  
   String education = "Bachelor of Science";
 
   List<String> skills = [
