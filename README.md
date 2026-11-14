@@ -21,7 +21,7 @@
 
 🚀 About Me
 
-class MohamedSaleh {
+class Mo {
   String name = "Mohamed Saleh Mohamed";
   String role = "Flutter Developer";
   String education = "Bachelor of Science";
