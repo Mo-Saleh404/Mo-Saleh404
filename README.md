@@ -1,4 +1,4 @@
-Hi, I'm Mohamed Saleh Mohamed 👋
+<h1 align="center">Hi, I'm Mohamed Saleh Mohamed 👋</h1>
 
 Flutter Developer 📱 | Dart Developer 💻 | Science Graduate 🎓
 
