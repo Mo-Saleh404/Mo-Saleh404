@@ -12,15 +12,11 @@ Flutter Developer 📱 | Dart Developer 💻 | Science Graduate 🎓
   <a href="https://www.tiktok.com/@mo.saleh54">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+
   <a href="https://www.facebook.com/share/17J67Fzk7Y/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://learrnsimply.com">
-    <img src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+ 
 </p>
 
 🚀 About Me
